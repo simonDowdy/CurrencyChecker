@@ -1,0 +1,1 @@
+The CurrencyChecker is code written to access an api via bluetooth to display the exchange rates of the Brazilian Real and the South African Rand in terms of USD. This information is displayed on an OLED screen and accessed through the pressing of buttons all controlled by an ESP32.
